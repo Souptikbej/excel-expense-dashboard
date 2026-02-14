@@ -18,13 +18,8 @@ It converts raw transaction data into a dynamic dashboard with KPIs and charts f
 - Slicers for interactivity  
 - KPI Cards (Total Expense, Average Daily Spend, Highest Spending Category)
 
-## 📂 Project Structure
-excel-expense-dashboard/
-│
-├── data/ → Sample expense data
-├── dashboard/ → Final Excel dashboard
-├── screenshots/ → Dashboard preview image
-└── README.md
+## 📷 Dashboard Preview
+![Dashboard Preview](screenshots/dashboard.png)
 
 ## 📊 Dashboard Components
 - Total Expense KPI  
